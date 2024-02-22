@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BHAVYA-ISSAR_SQLEXPRESS2.AWN_STG_Demo"
+  DTS:DTSID="{0DAD9C7E-1795-4453-9737-FD8695C5DDCE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=BHAVYA-ISSAR\SQLEXPRESS2;Initial Catalog=AWN_STG_Demo;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Integration Services Project1-{0DAD9C7E-1795-4453-9737-FD8695C5DDCE}BHAVYA-ISSAR\SQLEXPRESS2.AWN_STG_Demo;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
